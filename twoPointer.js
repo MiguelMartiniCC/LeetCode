@@ -1,3 +1,5 @@
+// 9. Palindrome Number
+
 const array = 121 //valor
 
 function palindrome(phrase){
